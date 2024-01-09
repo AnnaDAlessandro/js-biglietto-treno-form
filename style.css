@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+main{
+    background-color: #b91450;
+    height: 100vh;
+}
+
+label{
+    color: #b91550;
+    font-weight: bold;
+}
+#bottoneGenera{
+    background-color:#cbced2;
+    color: #b91550 ;
+    font-weight: bold;
+}
